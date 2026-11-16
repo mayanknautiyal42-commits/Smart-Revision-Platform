@@ -1,0 +1,17 @@
+{
+  "ai": {
+    "provider": "gemini",
+    "api_key": "PASTE-YOUR-API-KEY-HERE",
+    "model": "gemini-flash-lite-latest",
+    "thinking": "minimal",
+    "fallback_model": "gemini-flash-latest",
+    "base_url": ""
+  },
+  "email": {
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 587,
+    "username": "your.address@gmail.com",
+    "password": "PASTE-YOUR-16-CHARACTER-APP-PASSWORD",
+    "from_name": "Smart Revision"
+  }
+}

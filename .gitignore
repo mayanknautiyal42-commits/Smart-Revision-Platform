@@ -1,0 +1,18 @@
+# Secrets: API key and email password. Never commit this file.
+config.json
+
+# Student accounts, answers and saved questions: never commit these
+data/*.txt
+data/*.tmp
+!data/README.txt
+data_test/
+dataset/*.tmp
+
+# Build output
+smart_revision
+smart_revision.exe
+test_mylib
+test_mylib.exe
+test_core
+test_core.exe
+__pycache__/
